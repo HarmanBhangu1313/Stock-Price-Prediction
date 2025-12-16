@@ -89,10 +89,6 @@ It cannot:
 
 ---
 
-### One-Line Intuition (Interview-Ready)
-
-**“LSTMs predict stock prices by learning long-term temporal patterns while filtering short-term noise through gated memory mechanisms.”**
-
 ##  Features  
 - Time series data preprocessing (normalization, windowing)  
 - LSTM model implementation in TensorFlow / PyTorch  
